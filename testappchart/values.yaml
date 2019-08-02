@@ -1,0 +1,6 @@
+deployment: 
+  name: apache-deployment
+  label: apache
+  imagename: claratech/myfrontend
+  imagetag: 2.0
+  
